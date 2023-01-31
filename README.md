@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+* Creado por el increible Platzi Team
 
 Y como un amable recordatorio: **Este readme es parte del ejemplo para el curso**
